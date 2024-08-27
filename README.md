@@ -16,9 +16,9 @@
 
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-## 🌐 Socials:
+                  ## 🌐 Socials:
 
- <h3 align="left">Connect with me:</h3>
+ <h3 align-items-center="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
