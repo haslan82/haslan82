@@ -2,19 +2,15 @@
 
 
 # 💫 About Me:
-👋 Hi , I'm Hüseyin ASLAN.<br>🔭 I work as a passionate Frontend Developer <br>🌱 I'm currently improving my skills in frontend technologies.<br>⚡ I can help with Front End.<br>👨‍💻 📫 💬 Ask me about anything<br>🤝🏻 I am open to job offers.<br>🟢 I like to paint my repo green. I don't like empty boxes.
+👋 Hi , I'm Hüseyin ASLAN.<br>🔭 I work as a passionate Frontend Developer <br>🌱 I'm currently improving my skills in frontend technologies.<br>⚡ I can help with Front End.<br>🤝🏻 I am open to job offers.<br>🟢 I like to paint my repo green. I don't like empty boxes.
 
 🌱 I'm currently studying software engineering and I'm still improving myself.
 
 🔮 I develop projects with React & Javascript
 
-💬 Ask me about React JS, Javascript
-
 🤭 I love learning new things and software
 
 📫 How can you reach me haslan82@hotmail.com
-
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
               
 
