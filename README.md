@@ -16,7 +16,7 @@
 
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-                  ## 🌐 Socials:
+              
 
  <h3 align-items-center="left">Connect with me:</h3>
 <p align="left">
