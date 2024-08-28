@@ -1,4 +1,4 @@
-  <h1 align="center">👋 Hi there</h1></br> <h2>My name is Hüseyin ASLAN and I'm a React / Front-end Developer from Turkey</h2>
+  <h1 align="center">👋 Hi there</h1> <h2> I'm Hüseyin ASLAN and I'm a React / Frontend Developer from Turkey</h2>
 
 ###
 
