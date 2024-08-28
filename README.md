@@ -3,7 +3,15 @@
 
 ### 💫 About Me:
 
-👋 I'm Hüseyin ASLAN <br>🔭 I work as a passionate Frontend Developer <br>🌱 I'm currently improving my skills in frontend technologies.<br>⚡ I can help with Front End.<br>🟢 I like to paint my repo green. I don't like empty boxes.
+👋 I'm Hüseyin ASLAN <br>
+
+🔭 I work as a passionate Frontend Developer <br>
+
+🌱 I'm currently improving my skills in frontend technologies.<br>
+
+⚡ I can help with Front End.<br>
+
+🟢 I like to paint my repo green. I don't like empty boxes.
 
 🌱 I'm currently studying software engineering and I'm still improving myself.
 
