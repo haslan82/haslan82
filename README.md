@@ -25,6 +25,8 @@
 
 🤝🏻 I am open to job offers
 
+📫 How can you reach me haslan82@hotmail.com
+
 </div>
 
 I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.
