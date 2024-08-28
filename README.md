@@ -8,7 +8,7 @@
 
 <div align="left">
   
-               💫 About Me:
+💫 About Me:
  
 🔭 I work as a passionate Frontend Developer.
 
