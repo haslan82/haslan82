@@ -45,5 +45,5 @@ I have worked with front-end technologies such as HTML, CSS, JavaScript, and Rea
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
