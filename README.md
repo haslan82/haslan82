@@ -1,9 +1,9 @@
 <h2 align="center">Hi there!👋</br> My name is Hüseyin and I'm a React / Frontend Developer from Turkey</h2>
-<h5> I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.</h5>
+<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.</h4>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"  />
 
-###
+
 
 
 <div align="left">
