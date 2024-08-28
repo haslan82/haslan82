@@ -29,14 +29,11 @@
 
 I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.
 
- <h2 align="left">Connect with me:</h2>
-<p align="left">
-
+<h2 align="center">🤝🏻Connect with me:</br> 
 <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
 <a href="https://x.com/huseyinaslan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
 <a href="https://www.instagram.com/haslan82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haslan82" height="30" width="40" /></a>
-
-
+</h2>
 
 ### 💻 Tech Stack:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
