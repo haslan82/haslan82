@@ -15,8 +15,6 @@
 
 🟢 I like to paint my repo green. I don't like empty boxes.
 
-🌱 I'm currently studying software engineering and I'm still improving myself.
-
 🔮 I develop projects with React & Javascript
 
 🤭 I love learning new things and software
