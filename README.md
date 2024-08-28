@@ -7,10 +7,8 @@
 
 
 <div align="left">
-  💫 About Me:
+  💫 About Me:</br>
  
-
-
 🔭 I work as a passionate Frontend Developer <br>
 
 🌱 I'm currently improving my skills in frontend technologies.<br>
@@ -27,7 +25,7 @@
 
 🤝🏻 I am open to job offers
 
-📫 How can you reach me haslan82@hotmail.com
+📫 You can reach me here haslan82@hotmail.com
 
 </div>
 
