@@ -7,7 +7,13 @@
 
 
 <div align="left">
-  💫 ### About Me:</br>
+  💫 About Me:</br>
+
+
+
+
+
+
  
 🔭 I work as a passionate Frontend Developer <br>
 
