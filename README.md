@@ -1,5 +1,5 @@
   <h1 align="center">👋 Hi there</h1> <h2> I'm Hüseyin ASLAN and I'm a React / Frontend Developer from Turkey</h2>
-
+<h2 align="center">Hi 👋!</br> My name is Hüseyin and I'm a React / Frontend Developer from Turkey</h2>
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"  />
