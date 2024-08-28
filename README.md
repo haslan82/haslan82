@@ -1,9 +1,14 @@
-  <h1 align="center">👋 Hi there</h1>
+  <h1 align="center">👋 Hi there</br> My name is Hüseyin ASLAN and I'm a React / Front-end Developer from Turkey</h1>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"  />
+
+###
 
 
-### 💫 About Me:
-
-👋 I'm Hüseyin ASLAN <br>
+<div align="left">
+ ### 💫 About Me:
 
 🔭 I work as a passionate Frontend Developer <br>
 
@@ -21,10 +26,9 @@
 
 🤝🏻 I am open to job offers.
 
-📫 How can you reach me haslan82@hotmail.com
+</div>
 
               
-
  <h3 align-items-center="left">Connect with me:</h3>
 <p align="left">
 
