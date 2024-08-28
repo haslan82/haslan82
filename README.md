@@ -1,5 +1,4 @@
-  <h1 align="center">👋 Hi there</h1> <h2> I'm Hüseyin ASLAN and I'm a React / Frontend Developer from Turkey</h2>
-<h2 align="center">Hi 👋!</br> My name is Hüseyin and I'm a React / Frontend Developer from Turkey</h2>
+<h2 align="center">Hi 👋!</br> My name is Hüseyin and I'm a React/Frontend Developer from Turkey</h2>
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"  />
@@ -24,7 +23,11 @@
 
 🤭 I love learning new things and software
 
-🤝🏻 I am open to job offers.
+🤝🏻 I am open to job offers
+
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 
 </div>
 
