@@ -7,6 +7,7 @@
 
 <div align="left">
   💫 About Me:
+  I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.
   
 
 🔭 I work as a passionate Frontend Developer <br>
@@ -28,8 +29,6 @@
 📫 How can you reach me haslan82@hotmail.com
 
 </div>
-
-I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.
 
 <h1 align="center">🤝🏻 Connect with me</br> 
 <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
