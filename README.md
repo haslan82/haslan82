@@ -7,13 +7,13 @@
 
 
 <div align="left">
-  💫 About Me:<br>
+  💫 About Me:
  
-🔭 I work as a passionate Frontend Developer <br>
+🔭 I work as a passionate Frontend Developer.
 
-🌱 I'm currently improving my skills in frontend technologies.<br>
+🌱 I'm currently improving my skills in frontend technologies.
 
-⚡ I can help with Front End.<br>
+⚡ I can help with Front End.
 
 🟢 I like to paint my repo green. I don't like empty boxes.
 
