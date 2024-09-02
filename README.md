@@ -21,7 +21,7 @@
 
 🤝🏻 I am open to job offers
 
-📫 You can reach me here haslan82@hotmail.com
+📫 You can reach me here  haslan82@hotmail.com
 
 </div>
 
