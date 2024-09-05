@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
 <a href="https://x.com/huseyinaslan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
 <a href="https://www.instagram.com/haslan82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haslan82" height="30" width="40" /></a>
+  
 </h1>
 
 ###  💻  Tech Stack :
