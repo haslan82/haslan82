@@ -5,7 +5,7 @@
 
 
 
-<div align="left">
+<div align ="left">
   
 💫 About Me:
  
