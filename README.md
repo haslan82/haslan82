@@ -4,6 +4,7 @@
 <img  align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" />
 
 <div align = "left">
+
   
 💫 About Me:
  
@@ -22,6 +23,7 @@
 📫 You can reach me here  haslan82@hotmail.com
 
 </div>
+
 <h1 align="center">🤝🏻 Connect With Me </br> 
 <a href="https://www.linkedin.com/in/huseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
 <a href="https://x.com/huseyinaslan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
