@@ -7,8 +7,9 @@
 
 💫 About Me :
  
-🔭 I work as a passionate Frontend & Mobile Developer.
-
+🔭 I work as a passionate Software Developer & Frontend-React Developer 
+                React-Native Developer & Mobile Developer.
+                
 ⚡ I can help with Frontend & React Native
 
 🟢 I like to paint my repo green. I don't like empty boxes.
